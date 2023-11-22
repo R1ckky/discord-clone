@@ -3,3 +3,8 @@ This is just what I need to learn more about
 Imports in React
 Hydration in React
 Modals in React
+destructuring with { x }
+Middleware
+TS versus TSX vs JS
+"Use client"
+Abstraction with  ({ x })
